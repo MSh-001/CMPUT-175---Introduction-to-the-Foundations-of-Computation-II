@@ -1,0 +1,301 @@
+PID, Industry, Product Name
+UCZ641, Manufacturing, Ursus C-380
+OLI982, Food, Pringles Original
+SJL528, Pharmacy, Aleve PM
+HSL253, Manufacturing, Audi A4
+LYU161, Pharmacy, Klonopin
+FYC350, Tech, Nvidia GeForce RTX 5090
+WNV319, Tech, Fujifilm X-T5
+FHL317, Pharmacy, Aleve Naproxen Sodium
+LYU554, Agriculture, CFMoto ZForce
+RLC567, Food, Kraft Miracle Whip
+IFG137, Manufacturing, Suzuki GSX-R750
+JLU105, Food, Campbell's Tomato Soup
+ZRY656, Food, Animal Crackers
+ABT869, Tech, Sennheiser HD 206
+ZND997, Agriculture, Argo Tractors
+KFB937, Food, Fritos Original Corn Chips
+SUE128, Manufacturing, Volkswagen Golf
+VUG789, Food, Pepsi Max
+FDO043, Tech, Google Pixel 8 Pro
+VFD582, Agriculture, Landini Rex 4-100
+ZDK882, Agriculture, Arctic Cat Prowler
+IHC549, Food, Lay's Classic Potato Chips
+OPU210, Pharmacy, Restoril
+UEK278, Manufacturing, Indian Scout
+RIH605, Agriculture, Claas Lexion 780
+JZN278, Agriculture, John Deere Gator
+LUH283, Pharmacy, Bayer Aspirin
+EOU890, Food, Coca-Cola Classic
+GQN193, Food, Snickers Bar
+RCF232, Tech, Shure SM7B
+FNT587, Tech, Bose QuietComfort 45
+CQC981, Manufacturing, Tesla Model 3
+BST279, Pharmacy, Tylenol Extra Strength
+XEQ593, Manufacturing, Polaris RZR
+XDL139, Pharmacy, Unisom SleepTabs
+CMM037, Manufacturing, Dodge Charger
+CPV855, Agriculture, Case IH Magnum 255
+PFH079, Food, Ritz Crackers
+VTX268, Manufacturing, Toyota Camry
+UDX889, Pharmacy, Biofreeze Pain Relief Gel
+NOX860, Manufacturing, Kubota BX2380
+OZE404, Agriculture, Kazuma
+MDN652, Food, Saltine Crackers
+ITT762, Agriculture, AGCO Challenger MT765
+EUP503, Food, Milano Cookies
+FEG340, Pharmacy, Aspercreme Lidocaine Cream
+YGP507, Manufacturing, Jeep Wrangler
+OKY457, Manufacturing, Fendt 900 Vario
+GZZ909, Tech, GoPro HERO11
+CSO582, Food, Girl Scout Cookies
+LLX947, Tech, HyperX Cloud II
+NNH655, Manufacturing, Deere 8R
+HJL277, Food, Triscuit Crackers
+CZE522, Pharmacy, Icy Hot Roll-On
+GWD618, Manufacturing, Yamaha YZF-R1
+VKB107, Pharmacy, Claritin 24 Hour
+SQJ956, Manufacturing, Ford F-150
+YBX043, Pharmacy, Robitussin DM
+TMV446, Agriculture, Same Deutz-Fahr 6R
+FEM194, Food, Goldfish Crackers
+EMB324, Agriculture, SuperATV
+LEY185, Food, Progresso Chicken Noodle Soup
+LFL620, Pharmacy, Theraflu Daytime
+ZWK648, Pharmacy, Cepacol Sore Throat
+ESM971, Pharmacy, Benadryl Allergy
+UTL157, Food, Twix Caramel Cookie Bars
+MXF977, Agriculture, Suzuki KingQuad
+FVF864, Agriculture, Yamaha Grizzly
+VWR847, Tech, Apple MacBook Pro M3
+LMZ162, Pharmacy, Advil Ibuprofen Tablets
+AVG370, Agriculture, BCS
+DUM793, Food, Hershey's Milk Chocolate
+NKI504, Manufacturing, Bosch Power Drill
+GTX541, Food, Chips Ahoy
+JZJ781, Food, Famous Amos Cookies
+NGU417, Pharmacy, Zyrtec Allergy Relief
+AMD741, Tech, Sony A7R V
+NYQ333, Pharmacy, Ativan
+CLZ063, Tech, Arduino Uno R4
+PMC984, Pharmacy, Tylenol PM
+TYQ842, Food, French's Mustard
+DFW993, Pharmacy, Tiger Balm
+NRC272, Food, KitKat Chocolate Bar
+XDL626, Manufacturing, Case IH Magnum
+NBX829, Food, Pepperidge Farm Goldfish
+ECS811, Agriculture, Grillo
+FUR996, Tech, Blue Yeti USB
+EMW654, Agriculture, Ursus 4512
+PHS712, Agriculture, Pasquali
+FCK713, Agriculture, Linhai
+UIE078, Tech, Sony WH-1000XM5
+JMV404, Manufacturing, Chevrolet Silverado
+PTO324, Food, Heinz Tomato Ketchup
+VYK426, Tech, Dell XPS 13
+DSW564, Tech, AMD Ryzen 9 7950X
+SDD422, Pharmacy, Sucrets Sore Throat
+BEI652, Food, Reese's Peanut Butter Cups
+FMX633, Manufacturing, Kawasaki Ninja
+ECY207, Food, Fig Newtons
+UDD771, Pharmacy, Vicks VapoRub
+RJZ479, Pharmacy, DayQuil Cold & Flu Relief
+IKK555, Pharmacy, Motrin IB Ibuprofen
+YJZ887, Food, Ruffles Original Potato Chips
+VQC969, Agriculture, Zetor Forterra 130
+BTK863, Pharmacy, Ricola Cough Drops
+KEL524, Agriculture, Antonio Carraro
+MGU253, Food, Nilla Wafers
+YIW159, Food, Graham Crackers
+ZHC600, Manufacturing, Mercedes-Benz C-Class
+KMQ788, Food, Oreo Cookies
+NIY207, Food, Hellmann's Mayonnaise
+BCN831, Manufacturing, Victory Vegas
+SFF772, Manufacturing, Zetor Major
+MOQ202, Pharmacy, Valium
+BBH671, Tech, Microsoft Surface Pro 9
+TRO770, Tech, Canon EOS R5
+WIQ510, Manufacturing, Chevrolet Corvette
+HDQ062, Tech, Amazon Echo Dot (5th Gen)
+JHE863, Agriculture, New Holland CR10.90
+SSE628, Manufacturing, John Deere Tractor
+XAP737, Pharmacy, Mucinex DM
+XNU329, Agriculture, Polaris Ranger
+EPW158, Agriculture, Kawasaki Mule
+LYU334, Food, M&M's Chocolate Candies
+DKQ286, Agriculture, McCormick X7.660
+GXW994, Manufacturing, Ducati Panigale V4
+YXD440, Tech, Asus RTX 4070 Ti Strix Edition
+SRV954, Agriculture, Kubota RTV-X1140
+VIO377, Agriculture, Kubota L3301
+JJP176, Food, Oreo Thins
+VNH867, Pharmacy, Sominex Nighttime Sleep Aid
+UMZ034, Pharmacy, Xanax
+TMM930, Food, Cheetos Crunchy
+WGQ397, Manufacturing, AGCO Challenger
+MXH313, Food, Cheez-It Original
+QWU452, Food, Tostitos Scoops
+ETN511, Food, Wish-Bone Italian Dressing
+OUO999, Tech, LG OLED C1
+ELC352, Tech, SteelSeries Arctis 7
+XAT662, Agriculture, Warn Industries
+QJA868, Food, Doritos Nacho Cheese
+VQZ230, Tech, Samsung Galaxy S23 Ultra
+VWY314, Manufacturing, Caterpillar Excavator
+RQI769, Agriculture, Fendt 930 Vario
+MET026, Tech, Apple AirPods Pro
+DNN448, Pharmacy, Lunesta
+GXE690, Pharmacy, Ambien
+GQC103, Tech, Focusrite Scarlett 2i2
+HJD716, Pharmacy, Librium
+DUR236, Food, Kraft Mac & Cheese
+EUA922, Manufacturing, Valtra A Series
+DPY560, Agriculture, Honda Pioneer
+SAS649, Tech, Lenovo ThinkPad X1 Carbon
+FPB952, Tech, Nikon Z9
+PUZ675, Food, Lays Wavy
+FSN175, Pharmacy, NyQuil Cold & Flu Relief
+QMZ626, Manufacturing, Triumph Bonneville
+MVT740, Manufacturing, Ford Mustang
+JWC202, Pharmacy, Advil PM
+UNL432, Agriculture, Valtra T234
+FRI330, Food, Pringles Original Variant 2
+EON719, Pharmacy, Bengay Pain Relieving Cream
+QRK165, Manufacturing, Claas Lexion
+SWP631, Food, Kraft Miracle Whip Variant 2
+TQA626, Pharmacy, Luden's Throat Drops
+ZZZ669, Tech, AKG K240
+RGF628, Pharmacy, Halls Cough Drops
+ATL153, Tech, Corsair K57 RGB
+SAN612, Manufacturing, Can-Am Maverick
+LYT876, Agriculture, Goldoni
+KNC543, Manufacturing, Honda Civic
+ZZE251, Food, Campbell's Tomato Soup Variant 2
+NQJ411, Pharmacy, Sudafed PE
+VPJ874, Agriculture, Caterpillar D6 Dozer
+KWB629, Manufacturing, Arctic Cat Wildcat
+VJK638, Agriculture, Hisun Sector
+VKI198, Food, Animal Crackers Variant 2
+TXO017, Agriculture, Ferrari
+OUW429, Tech, Elgato Stream Deck MK.2
+WOQ639, Manufacturing, Harley-Davidson Sportster
+YMS747, Agriculture, Deutz-Fahr Agrotron 6150
+MAT460, Agriculture, Yanmar
+IMM935, Food, Fritos Original Corn Chips Variant 2
+VTH061, Food, Pepsi Max Variant 2
+MUG772, Manufacturing, Massey Ferguson 5700
+YIZ421, Tech, Olympus OM-D E-M10 IV
+SRH525, Food, Lay's Classic Potato Chips Variant 2
+BRX801, Food, Coca-Cola Classic Variant 2
+PLP863, Food, Snickers Bar Variant 2
+MFE077, Food, Ritz Crackers Variant 2
+EAQ790, Tech, JBL Clip 4
+SKV639, Food, Saltine Crackers Variant 2
+YPC502, Tech, HP Spectre x360
+GES873, Agriculture, Can-Am Defender
+CQL722, Agriculture, Massey Ferguson 8730
+RZO810, Tech, Logitech MX Master 3S
+QIW073, Manufacturing, New Holland T4.75
+TTO658, Agriculture, ISEKI
+PYN987, Agriculture, John Deere 8R Tractor
+BJF676, Food, Milano Cookies Variant 2
+VVA008, Tech, Raspberry Pi 5
+MKS009, Manufacturing, Honda CBR600RR
+FZZ352, Agriculture, CFMoto ZForce Variant 2
+HSY941, Manufacturing, BMW 3 Series
+KFN577, Tech, DJI Mavic 3
+TSA643, Manufacturing, Nissan Altima
+FHP796, Agriculture, Argo Tractors Variant 2
+ETX785, Manufacturing, Ursus C-380 Variant 2
+QZY516, Food, Girl Scout Cookies Variant 2
+BUD210, Manufacturing, Audi A4 Variant 2
+IOF378, Food, Triscuit Crackers Variant 2
+ACF363, Pharmacy, Excedrin Migraine
+XIA113, Manufacturing, Suzuki GSX-R750 Variant 2
+IEX152, Food, Goldfish Crackers Variant 2
+GKL026, Agriculture, Landini Rex 4-100 Variant 2
+BTF159, Food, Progresso Chicken Noodle Soup Variant 2
+UJW299, Agriculture, Arctic Cat Prowler Variant 2
+IFM145, Pharmacy, ZzzQuil Nighttime Sleep Aid
+QKT776, Pharmacy, Aleve PM Variant 2
+UDV853, Agriculture, Claas Lexion 780 Variant 2
+QYH474, Agriculture, John Deere Gator Variant 2
+ZDM115, Manufacturing, Volkswagen Golf Variant 2
+TDH596, Tech, Samsung QLED 4K TV
+XBL511, Pharmacy, Klonopin Variant 2
+ASS020, Pharmacy, Aleve Naproxen Sodium Variant 2
+TIQ439, Agriculture, Case IH Magnum 255 Variant 2
+QIS044, Tech, Behringer U-Phoria UM2
+HJJ841, Food, Twix Caramel Cookie Bars Variant 2
+FBY538, Food, Hershey's Milk Chocolate Variant 2
+AKH775, Tech, Razer DeathAdder V3
+KUL044, Food, Chips Ahoy Variant 2
+GOH699, Pharmacy, Restoril Variant 2
+JPG804, Food, Famous Amos Cookies Variant 2
+HIS437, Agriculture, Kazuma Variant 2
+GHD954, Agriculture, AGCO Challenger MT765 Variant 2
+MKB591, Manufacturing, Indian Scout Variant 2
+FBI974, Agriculture, Same Deutz-Fahr 6R Variant 2
+FXK416, Food, French's Mustard Variant 2
+PEB331, Pharmacy, Bayer Aspirin Variant 2
+MSI530, Agriculture, SuperATV Variant 2
+ZKJ520, Pharmacy, Tylenol Extra Strength Variant 2
+SVN191, Food, KitKat Chocolate Bar Variant 2
+UMG532, Pharmacy, Unisom SleepTabs Variant 2
+ZNP173, Pharmacy, Biofreeze Pain Relief Gel Variant 2
+GIM625, Food, Pepperidge Farm Goldfish Variant 2
+AEY003, Manufacturing, Tesla Model 3 Variant 2
+WZH789, Pharmacy, Aspercreme Lidocaine Cream Variant 2
+BCP116, Agriculture, Suzuki KingQuad Variant 2
+JDP470, Manufacturing, Polaris RZR Variant 2
+FQP087, Food, Heinz Tomato Ketchup Variant 2
+LGP999, Manufacturing, Dodge Charger Variant 2
+OPM654, Pharmacy, Icy Hot Roll-On Variant 2
+KTU831, Food, Reese's Peanut Butter Cups Variant 2
+TDB043, Manufacturing, Toyota Camry Variant 2
+EDS033, Food, Fig Newtons Variant 2
+NAG517, Agriculture, Yamaha Grizzly Variant 2
+TRE344, Agriculture, BCS Variant 2
+PJA218, Manufacturing, Kubota BX2380 Variant 2
+PUB990, Tech, Intel Core i9-13900K
+HLG217, Food, Ruffles Original Potato Chips Variant 2
+LUC025, Agriculture, Grillo Variant 2
+JOH510, Manufacturing, Jeep Wrangler Variant 2
+YRY873, Pharmacy, Claritin 24 Hour Variant 2
+AGO363, Agriculture, Ursus 4512 Variant 2
+XHX486, Pharmacy, Robitussin DM Variant 2
+QIL384, Tech, Panasonic Lumix S5
+HZD386, Manufacturing, Fendt 900 Vario Variant 2
+MSQ702, Pharmacy, Theraflu Daytime Variant 2
+JNG560, Tech, Nvidia GeForce RTX 5080
+CBG965, Agriculture, Pasquali Variant 2
+XOE038, Manufacturing, Deere 8R Variant 2
+VSN567, Tech, Fujifilm X-T5 Variant 2
+HQM195, Pharmacy, Cepacol Sore Throat Variant 2
+IIT210, Pharmacy, Benadryl Allergy Variant 2
+QMQ512, Agriculture, Linhai Variant 2
+AQT531, Manufacturing, Yamaha YZF-R1 Variant 2
+KDL036, Pharmacy, Advil Ibuprofen Tablets Variant 2
+YQO633, Manufacturing, Ford F-150 Variant 2
+XLK802, Food, Nilla Wafers Variant 2
+HZJ001, Manufacturing, Bosch Power Drill Variant 2
+BWV316, Agriculture, Zetor Forterra 130 Variant 2
+LMQ692, Pharmacy, Zyrtec Allergy Relief Variant 2
+CQH403, Agriculture, Antonio Carraro Variant 2
+QVA360, Tech, Sennheiser HD 206 Variant 2
+OPS367, Manufacturing, Case IH Magnum Variant 2
+HAR399, Tech, Huawei MateBook X Pro
+XNO906, Manufacturing, Chevrolet Silverado Variant 2
+CXS221, Agriculture, New Holland CR10.90 Variant 2
+IDD059, Pharmacy, Ativan Variant 2
+IFP208, Manufacturing, Kawasaki Ninja Variant 2
+SXE552, Pharmacy, Tylenol PM Variant 2
+CNM063, Manufacturing, Mercedes-Benz C-Class Variant 2
+DXD304, Food, Graham Crackers Variant 2
+PSJ088, Food, Oreo Cookies Variant 2
+LRV953, Agriculture, Polaris Ranger Variant 2
+GYW211, Manufacturing, Victory Vegas Variant 2
+MSR124, Tech, Shure SM7B Variant 2
+LEV202, Agriculture, Kawasaki Mule Variant 2
+GFX473, Agriculture, McCormick X7.660 Variant 2
+YKA365, Pharmacy, Tiger Balm Variant 2

@@ -1,0 +1,10 @@
+EmployeeName,Age,Attrition,BusinessTravel,Department,DistanceFromHome,EnvironmentSatisfaction,Gender,JobInvolvement,JobRole,JobSatisfaction,NumCompaniesWorked,MonthlyIncome,OverTime,PercentSalaryHike,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion
+John Smith,32.0,No,Travel_Rarely,Sales,8.0,3.0,Male,3.0,Sales Executive,3.0,2.0,5420.0,No,14.0,3.0,4.0,2.0,1.0
+Sarah Johnson,28.0,No,Travel_Frequently,Research & Development,15.0,2.0,Female,4.0,Research Scientist,2.0,1.0,3890.0,Yes,12.0,2.0,2.0,1.0,0.0
+Michael Chen,45.0,No,Travel_Rarely,Research & Development,3.0,4.0,Male,3.0,Manufacturing Director,4.0,3.0,12500.0,No,18.0,4.0,12.0,7.0,2.0
+Emily Davis,26.0,No,Travel_Rarely,Human Resources,22.0,1.0,Female,2.0,Human Resources,1.0,1.0,2800.0,Yes,11.0,1.0,1.0,0.0,0.0
+Robert Wilson,38.0,No,Non-Travel,Sales,5.0,3.0,Male,4.0,Sales Representative,3.0,4.0,7200.0,No,15.0,3.0,8.0,5.0,3.0
+Jennifer Martinez,29.0,No,Travel_Rarely,Research & Development,12.0,2.0,Female,3.0,Laboratory Technician,2.0,2.0,4100.0,Yes,13.0,2.0,3.0,2.0,1.0
+David Brown,52.0,No,Travel_Rarely,Research & Development,7.0,4.0,Male,4.0,Manager,4.0,5.0,18900.0,No,20.0,4.0,18.0,10.0,4.0
+Amanda Taylor,24.0,No,Travel_Frequently,Sales,28.0,1.0,Female,2.0,Sales Executive,1.0,1.0,3200.0,Yes,11.0,1.0,1.0,0.0,0.0
+Christopher Lee,35.0,No,Travel_Rarely,Research & Development,4.0,3.0,Male,3.0,Research Scientist,3.0,2.0,6800.0,No,16.0,3.0,6.0,4.0,2.0
